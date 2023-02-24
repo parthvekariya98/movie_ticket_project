@@ -70,4 +70,5 @@ updateSelectedCount();
 
 function success() {
     alert("Enjoy!! Your ticket booking is done successfully.");
+    window.location.href = "index.html";
 }
