@@ -210,3 +210,16 @@ p.text {
 p.text span {
   color: #6feaf6;
 }
+
+button {
+    background-color: #007204; 
+    border: none;
+    color: white;
+    padding: 10px 50px;
+    margin-top: 25px;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 5px;
+  }
